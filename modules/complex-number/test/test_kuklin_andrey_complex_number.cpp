@@ -79,7 +79,7 @@ TEST(class_ComplexNumber, can_assign_complex_to_another_complex) {
 TEST(class_ComplexNumber, assigned_complex_equal_source_complex) {
   ComplexNumber a(2.0, 2.0), b;
   b = a;
-  
+
   ASSERT_DOUBLE_EQ(a.getRe(), b.getRe());
   ASSERT_DOUBLE_EQ(a.getIm(), b.getIm());
 }
