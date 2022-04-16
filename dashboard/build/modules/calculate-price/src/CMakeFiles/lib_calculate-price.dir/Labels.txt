@@ -1,0 +1,10 @@
+# Target labels
+ calculate-price
+ Library
+# Source files and their labels
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/calculate-price/src/calculate_price.cpp
+ calculate-price
+ Library
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/calculate-price/include/calculate_price.h
+ calculate-price
+ Library

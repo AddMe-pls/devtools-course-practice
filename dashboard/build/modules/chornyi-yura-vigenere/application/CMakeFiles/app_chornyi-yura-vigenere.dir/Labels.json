@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/source/repos/devtools-course-practice/modules/chornyi-yura-vigenere/application/vigenere_cipher.cpp",
+			"labels" : 
+			[
+				"chornyi-yura-vigenere",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"chornyi-yura-vigenere",
+			"Application"
+		],
+		"name" : "app_chornyi-yura-vigenere"
+	}
+}

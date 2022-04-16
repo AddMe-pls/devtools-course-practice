@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\chornyi-yura-vigenere\src\vigenere_cipher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\chornyi-yura-vigenere\include\vigenere_cipher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\chornyi-yura-vigenere\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C48761CB-E719-3A6C-9451-867235E07E35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BC6BA2FD-9FE2-3BD9-B99B-E87ECA6FF360}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

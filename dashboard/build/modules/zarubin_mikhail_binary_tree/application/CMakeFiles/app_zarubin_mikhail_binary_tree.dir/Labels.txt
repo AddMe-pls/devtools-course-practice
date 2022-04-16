@@ -1,0 +1,7 @@
+# Target labels
+ zarubin_mikhail_binary_tree
+ Application
+# Source files and their labels
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/zarubin_mikhail_binary_tree/application/binary_tree.cpp
+ zarubin_mikhail_binary_tree
+ Application

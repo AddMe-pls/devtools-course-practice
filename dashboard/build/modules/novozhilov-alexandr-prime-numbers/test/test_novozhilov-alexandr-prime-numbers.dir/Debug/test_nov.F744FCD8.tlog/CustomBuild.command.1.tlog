@@ -1,0 +1,10 @@
+^C:\USERS\АНДРЕЙ\SOURCE\REPOS\DEVTOOLS-COURSE-PRACTICE\MODULES\NOVOZHILOV-ALEXANDR-PRIME-NUMBERS\TEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Андрей/source/repos/devtools-course-practice -BC:/Users/Андрей/source/repos/devtools-course-practice/dashboard/build --check-stamp-file C:/Users/Андрей/source/repos/devtools-course-practice/dashboard/build/modules/novozhilov-alexandr-prime-numbers/test/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/source/repos/devtools-course-practice/modules/ustiuzhanin_n_hashmap/src/hashmap.cpp",
+			"labels" : 
+			[
+				"ustiuzhanin_n_hashmap",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/source/repos/devtools-course-practice/modules/ustiuzhanin_n_hashmap/include/hashmap.h",
+			"labels" : 
+			[
+				"ustiuzhanin_n_hashmap",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ustiuzhanin_n_hashmap",
+			"Library"
+		],
+		"name" : "lib_ustiuzhanin_n_hashmap"
+	}
+}

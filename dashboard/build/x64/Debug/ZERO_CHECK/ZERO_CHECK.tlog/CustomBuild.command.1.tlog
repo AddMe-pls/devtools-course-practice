@@ -1,0 +1,10 @@
+^C:\USERS\АНДРЕЙ\SOURCE\REPOS\DEVTOOLS-COURSE-PRACTICE\DASHBOARD\BUILD\CMAKEFILES\282CD7F467F63E299ED7CE69C092C102\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Андрей/source/repos/devtools-course-practice -BC:/Users/Андрей/source/repos/devtools-course-practice/dashboard/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Андрей/source/repos/devtools-course-practice/dashboard/build/DevTools.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

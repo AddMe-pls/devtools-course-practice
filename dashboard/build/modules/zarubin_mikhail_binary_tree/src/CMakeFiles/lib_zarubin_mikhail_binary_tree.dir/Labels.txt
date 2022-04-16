@@ -1,0 +1,16 @@
+# Target labels
+ zarubin_mikhail_binary_tree
+ Library
+# Source files and their labels
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/zarubin_mikhail_binary_tree/src/binary_tree.cpp
+ zarubin_mikhail_binary_tree
+ Library
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/zarubin_mikhail_binary_tree/src/binary_tree_application.cpp
+ zarubin_mikhail_binary_tree
+ Library
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/zarubin_mikhail_binary_tree/include/binary_tree.h
+ zarubin_mikhail_binary_tree
+ Library
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/zarubin_mikhail_binary_tree/include/binary_tree_application.h
+ zarubin_mikhail_binary_tree
+ Library

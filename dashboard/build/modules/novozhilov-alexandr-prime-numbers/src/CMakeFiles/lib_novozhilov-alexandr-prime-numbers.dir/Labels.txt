@@ -1,0 +1,10 @@
+# Target labels
+ novozhilov-alexandr-prime-numbers
+ Library
+# Source files and their labels
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/novozhilov-alexandr-prime-numbers/src/prime_numbers.cpp
+ novozhilov-alexandr-prime-numbers
+ Library
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/novozhilov-alexandr-prime-numbers/include/prime_numbers.h
+ novozhilov-alexandr-prime-numbers
+ Library

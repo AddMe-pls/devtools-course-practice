@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Windows-AMD64-Experimental"
+	BuildStamp="20220415-1924-Experimental"
+	Name="DESKTOP-S6OQDQ3"
+	Generator="ctest-3.22.0-rc3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-S6OQDQ3"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19044)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="12"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="15224"
+	TotalPhysicalMemory="8056"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3232"
+	>
+	<Testing>
+		<StartDateTime>Apr 15 22:25 RTZ 2 (ceia)</StartDateTime>
+		<StartTestTime>1650050726</StartTestTime>
+		<TestList>
+			<Test>./modules/calculate-price/test/calculate-price_gtest</Test>
+			<Test>./modules/chornyi-yura-vigenere/test/chornyi-yura-vigenere_gtest</Test>
+			<Test>./modules/complex-number/complex-number_can_Run</Test>
+			<Test>./modules/complex-number/complex-number_can_Print_Help_Without_Arguments</Test>
+			<Test>./modules/complex-number/complex-number_can_Check_Number_Of_Arguments</Test>
+			<Test>./modules/complex-number/complex-number_can_Detect_Wrong_Number_Format</Test>
+			<Test>./modules/complex-number/complex-number_can_Detect_Wrong_Operation_Format</Test>
+			<Test>./modules/complex-number/complex-number_can_Add_Complexs</Test>
+			<Test>./modules/complex-number/complex-number_can_Diff_Complexs</Test>
+			<Test>./modules/complex-number/complex-number_can_Mult_Complexs</Test>
+			<Test>./modules/complex-number/complex-number_can_Divide_Complexs</Test>
+			<Test>./modules/complex-number/complex-number_can_Detect_Divide_By_Zero</Test>
+			<Test>./modules/complex-number/test/complex-number_gtest</Test>
+			<Test>./modules/novozhilov-alexandr-prime-numbers/test/novozhilov-alexandr-prime-numbers_gtest</Test>
+			<Test>./modules/ustiuzhanin_n_hashmap/test/ustiuzhanin_n_hashmap_gtest</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Run</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Print_Help_Without_Arguments</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Number_Of_Arguments</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Cannot_Be_Cast_To_Int</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Number_Out_Of_Range</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Wrong_Operation</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Add</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Delete</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Find</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Not_Find</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Add_More_Initial_Values</Test>
+			<Test>./modules/zarubin_mikhail_binary_tree/test/zarubin_mikhail_binary_tree_gtest</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>calculate-price_gtest</Name>
+			<Path>./modules/calculate-price/test</Path>
+			<FullName>./modules/calculate-price/test/calculate-price_gtest</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_calculate-price.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.235518</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_calculate-price.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyllE1vgkAQhu/8ijlColtYsD15qU08NLHG2JrUGLLiKKSwa3YHbf99+YgGjUWSTggB3p155t0wuxyeYwWzXMpE7sDjQGjIwFarDOoXiIRBw6xl/xwrGKdqLdJaR3lItJIZSgKD1M/3V4svio5EGuWpIJzqJEJrCbP3CVSxutLYiwrnsVbHcBGjDEcaCyV8FuYLKVwkFIcT3AlKDhh+iDQva9Xx9vrvWmB7kBmntb2RuFnoE7Xq0NDdbLDduoWOW1m3DKRIpI51mea5zbyp0CK7tFZ9YvvyjqQf3B4cY9QIY6RKsh0Ygv3UA7dxDR6dS4vXVc4WWlDebVRNCE4on7ejvC4o/qcrr+Hq0Wd3YLwLzL8NG1SmCpFXVM91WdBO87vQgrZd5CeDvGGNMWbNYwRdjrDaAhXP1TirnPY5wVGYQsvUATdgEln8X0kx6t8R4sbUi+MiNVbppsz2XB7A+ofKg+IXTq5K4w==</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>calculate-price</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>chornyi-yura-vigenere_gtest</Name>
+			<Path>./modules/chornyi-yura-vigenere/test</Path>
+			<FullName>./modules/chornyi-yura-vigenere/test/chornyi-yura-vigenere_gtest</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_chornyi-yura-vigenere.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0374181</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_chornyi-yura-vigenere.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytlMFuwjAMhu99Ch/hQEUZ0k47TGXaYRqbGGMHxCG0hkRL4y5xYNvTL6UTAqQijdWnJLY//XHszG/2toCJN0aZNSTXwOjYwcpSAYPdBjLh0MXRvLe3BdxrWgpd+9FslCVToGFwyD1fngQPD6EztUaDFlNVSrQpGcfWZ0w2msPkdQw7WzSHxQfrN8WSPD8LKwpktC4want6uJgBnT4UrnuhnOmW/i3niNGinDHx3YcX+kV9YxvSDnnQSdqSWR0E9K3WtE2lsG1IPWXuq/r3Pq1vCkwsdDc6JiRXzYhHDI2Wu3MV+g2JU4nZ+whXwmueCe3PvlZj0vnOieM4mkoEW40wrYDDejfOYRhKz7AVLvgK2mAOTpkMQYVR/8wQc1cHy5AqSedVdtIfDGH5xdVH8QPRDH+s====</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>chornyi-yura-vigenere</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>complex-number_can_Run</Name>
+			<Path>./modules/complex-number</Path>
+			<FullName>./modules/complex-number/complex-number_can_Run</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0305563</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxVUMFKA0EMvc9X5CAsaLeDPRbpxR/woHiU7EzaHchOhsxMrX6dH6MHD4Kf4GwtUiE8krwQ3nv3Y8jQCsHJlJgOEOs0kIJDdpWxiAKmxMFhCRKXxtwxYSZIKvvgCVB3daJY2pcIZSTYCrM8h7hrnU5Y1sYAXMDt2j5k0mzfvt6/Pz5tlqqOrFKSbD3tiwjn3rVtpj4puhIa7TGPg6B6O9TADUO0J6H9r9AlHQhuXq+flJA3xy5MuAsR9WUeV3/E6h8hifRoaWPM40janDCfucG28VIHntWQC7mdnrLJC8Doz1/MCUokkC10V90Cun6Gyxls1zL7AZx4f9E=</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>complex-number</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>complex-number_can_Print_Help_Without_Arguments</Name>
+			<Path>./modules/complex-number</Path>
+			<FullName>./modules/complex-number/complex-number_can_Print_Help_Without_Arguments</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0103912</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[This is a complex number calculator]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxVUMFKA0EMvc9X5CAsaLeDPRbpxR/woHiU7EzaHchOhsxMrX6dH6MHD4Kf4GwtUiE8krwQ3nv3Y8jQCsHJlJgOEOs0kIJDdpWxiAKmxMFhCRKXxtwxYSZIKvvgCVB3daJY2pcIZSTYCrM8h7hrnU5Y1sYAXMDt2j5k0mzfvt6/Pz5tlqqOrFKSbD3tiwjn3rVtpj4puhIa7TGPg6B6O9TADUO0J6H9r9AlHQhuXq+flJA3xy5MuAsR9WUeV3/E6h8hifRoaWPM40janDCfucG28VIHntWQC7mdnrLJC8Doz1/MCUokkC10V90Cun6Gyxls1zL7AZx4f9E=</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>complex-number</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>complex-number_can_Check_Number_Of_Arguments</Name>
+			<Path>./modules/complex-number</Path>
+			<FullName>./modules/complex-number/complex-number_can_Check_Number_Of_Arguments</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "1" "2"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0103272</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[ERROR: Should be 5 arguments.]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "1" "2"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxVUMFKAzEQve9XzEFY0G6DBS9FehHPSlU8ymx22g3MZsIkqdWv82P04EHwE8zWoi0Mj8m8yfDeu14ub5ZzuOslcwctwQWgrvNAPsVpVd33LkIpBCtDYNqCz0NLChbZZsYkChgCO4vJiS8/bpkwEgSVjevo/xg4D6knWAmzPDu/Lp0OmOZVBXACV3PzEEmjeft6//74NFGyWjJKQaLpaJNEODa2TCM1QdEmV+gOY98Kamfa7Lig82YvtPkVOqUtweXr+ZMS8mLXuQHXzqO+jM/ZHzE7IiSQ7iwtquqxJy1OmA/cYJl0klse1ZB1sazus4kTQN8dnhgTFE8gK6jP6gnUzQinI5i6ZPYD5+WJmA==</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>complex-number</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>complex-number_can_Detect_Wrong_Number_Format</Name>
+			<Path>./modules/complex-number</Path>
+			<FullName>./modules/complex-number/complex-number_can_Detect_Wrong_Number_Format</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "1" "ip" "2" "3" "+"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0093996</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Wrong number format!]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "1" "ip" "2" "3" "+"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Wrong number format!
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>complex-number</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>complex-number_can_Detect_Wrong_Operation_Format</Name>
+			<Path>./modules/complex-number</Path>
+			<FullName>./modules/complex-number/complex-number_can_Detect_Wrong_Operation_Format</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "1" "1" "2" "3" "+trash"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0097777</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Wrong operation format!]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "1" "1" "2" "3" "+trash"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Wrong operation format!
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>complex-number</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>complex-number_can_Add_Complexs</Name>
+			<Path>./modules/complex-number</Path>
+			<FullName>./modules/complex-number/complex-number_can_Add_Complexs</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "2.5" "4.5" "1.0" "4.5" "+"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0098238</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Real = 3.5 Imaginary = 9]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "2.5" "4.5" "1.0" "4.5" "+"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Real = 3.5 Imaginary = 9
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>complex-number</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>complex-number_can_Diff_Complexs</Name>
+			<Path>./modules/complex-number</Path>
+			<FullName>./modules/complex-number/complex-number_can_Diff_Complexs</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "-17" "0" "15" "-3.5" "-"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0097497</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Real = -32 Imaginary = 3.5]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "-17" "0" "15" "-3.5" "-"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Real = -32 Imaginary = 3.5
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>complex-number</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>complex-number_can_Mult_Complexs</Name>
+			<Path>./modules/complex-number</Path>
+			<FullName>./modules/complex-number/complex-number_can_Mult_Complexs</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "13" "-2" "4.6" "7.3" "*"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0174434</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Real = 74.4 Imaginary = 85.7]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "13" "-2" "4.6" "7.3" "*"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Real = 74.4 Imaginary = 85.7
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>complex-number</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>complex-number_can_Divide_Complexs</Name>
+			<Path>./modules/complex-number</Path>
+			<FullName>./modules/complex-number/complex-number_can_Divide_Complexs</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "27" "30" "15" "20" "/"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0145473</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Real = 1.608 Imaginary = -0.144]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "27" "30" "15" "20" "/"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Real = 1.608 Imaginary = -0.144
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>complex-number</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>complex-number_can_Detect_Divide_By_Zero</Name>
+			<Path>./modules/complex-number</Path>
+			<FullName>./modules/complex-number/complex-number_can_Detect_Divide_By_Zero</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "27" "30" "0" "0" "/"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0127403</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Can't divide by zero]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe "27" "30" "0" "0" "/"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Can't divide by zero
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>complex-number</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>complex-number_gtest</Name>
+			<Path>./modules/complex-number/test</Path>
+			<FullName>./modules/complex-number/test/complex-number_gtest</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_complex-number.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.068006</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_complex-number.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytlM1PgzAYxu/8Fe/RHdaMgckuHhYPSvaVLNMLIaTAO2nSD0ILbv71FjCLGjeH8l7aps/ztP2lbXh3qgi2lZRMvoDv34JBbTTsSyVgNmtHkFKNmjjh+FQRPHCVUN7No6xZqaRAaUCjGVfFN7Hb6drQ+TJYbZ7jj2YVLB7nwTK+V6LgeFhXIsEy3lm164SwfVpDW9H1NqIrYXdTU4Y2oavN4o8JcDMBoUcDnKZLAqMM5SPn18DzSdMfuVzQk6OQ6g3lGR5XOa/lcCFsMABeTwAeqVmaM0P7E/hs/T8CbzAEfk8EPsmQf70BhBBnlyOUzapqD8b22x2oyhSVgVeq7ZxQNWagmUwRmH3ohxQx0504t9Zc8axxu5OpD8nRNN/EO+OUXRs=</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>complex-number</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>novozhilov-alexandr-prime-numbers_gtest</Name>
+			<Path>./modules/novozhilov-alexandr-prime-numbers/test</Path>
+			<FullName>./modules/novozhilov-alexandr-prime-numbers/test/novozhilov-alexandr-prime-numbers_gtest</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_novozhilov-alexandr-prime-numbers.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0398566</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_novozhilov-alexandr-prime-numbers.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytU8tqwzAQvPsr9tgeYmyTUgj03EMhLSE9GSP82MSilmRWq7j9+8p2CaQPbOrsSZrdGUYaNn04VwY7p7XUR7gHRssWDmQUxMMFytxiGKSrc2Xw2Jgib8Y26pMkoxVqBou8cu234QvNF5IKt04VSHbv4SCF3esWhsp+dEOuyXRWdDVqIXVpiLBk0eaUK2Q/FHv+WM9P/+LDTQTK3i60kSy0kcyz0ZLUntbDQo+46Ay92WAYhS9s+OkNrAHYbCCOvOqdTwGyCZd/ys9zd0QWS/OapXE9O1O5zdKYb+e35KYNLArkkkzIjrQV/SvCMAz2NQL1S2wOwP48LLRx3DqGLre+p8wJK7D+4QjSL/t7iVjZcbj21No0Vc+Oo2QNxYcXCINPmA9/qA==</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>novozhilov-alexandr-prime-numbers</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>ustiuzhanin_n_hashmap_gtest</Name>
+			<Path>./modules/ustiuzhanin_n_hashmap/test</Path>
+			<FullName>./modules/ustiuzhanin_n_hashmap/test/ustiuzhanin_n_hashmap_gtest</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_ustiuzhanin_n_hashmap.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0379409</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_ustiuzhanin_n_hashmap.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJylk0FrgzAUx+9+infsDpU6dthlBynZGsRYkhS2igRb0yloUkzstm8/q1DQS6f7nxLe+71/eC8vfrkpAdooVahPeAYrjTVwqnUFXneBY2qk68TLmxJ4K/UhLfuwVJei1qqSyoKRdtmcR8mDmjvG8W6/8QkmguAAc19sfLYJ/a3giHHmxEB3BDold7NdFG75R8v0ioI/M7BYQWUeJtr5jCHKBUUM79FE2wE7z34dUYrWXGByLTXRfwjPe0DPCvSOGRcBmtr5Mf6/LiDqs6lDGLCw8GbYd6h4pVEoZv2+ET6vB30VEpHZs0Cu6zo8l1Bfl1ifwLbnbqF1Y8+Nha/UtLFKX2QGplBHCUW77N9HKTPTJ+ctmusyu9Le6vEJDj9tAdf5BWLQPOM=</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>ustiuzhanin_n_hashmap</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_can_Run</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Run</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0365895</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxVUDtOxEAM7ecULpDS7Gb61WobLkABooycjJNYTMYjzyR8TsdhoKBA4gh4FyGBZNlP79nWs29nLmCB0HNCfYaqRIA5Rx6wsqTWuZtIWAiyysbBRJ3WhVK1uQR1JhglRnnkNBnSBevBOYAruD74u0Ja/Ovn29f7hy+y6kBeKUvxgbYqEst+MLbQPisOlU0OWOZeUIPvV46WOfkX1NVqt/DDjBy7H6vd2WpLTwTHDeNKnWh3AeUER8mkF/+/OIWTc/czqR0Q458j0BhOlSZSSOvSm+MdWPu/HfYhSQQyQoMhNDtoAkWqdEYjp9C07hsukHko====</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_can_Print_Help_Without_Arguments</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Print_Help_Without_Arguments</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0098763</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[This is a binary tree application.]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxVUDtOxEAM7ecULpDS7Gb61WobLkABooycjJNYTMYjzyR8TsdhoKBA4gh4FyGBZNlP79nWs29nLmCB0HNCfYaqRIA5Rx6wsqTWuZtIWAiyysbBRJ3WhVK1uQR1JhglRnnkNBnSBevBOYAruD74u0Ja/Ovn29f7hy+y6kBeKUvxgbYqEst+MLbQPisOlU0OWOZeUIPvV46WOfkX1NVqt/DDjBy7H6vd2WpLTwTHDeNKnWh3AeUER8mkF/+/OIWTc/czqR0Q458j0BhOlSZSSOvSm+MdWPu/HfYhSQQyQoMhNDtoAkWqdEYjp9C07hsukHko====</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_can_Check_Number_Of_Arguments</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Number_Of_Arguments</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "2"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0105955</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[ERROR: Should be at least 4 arguments.]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "2"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJxVULtOA0EM7PcrXCBdk2QbqihKg6hBAUR58t06OSt765N3Nzy+jo+BggKJT8AJQoBk2SN7xhr7crO52izhZpAaA3QEWCAS5gLngLqrI6WSF87dDpzBAqHjhPoERcnI0xS5x8KSjHN9FBJMKgcO9CsHTlAGgq3EKA+cdoZ0xLJ0DuAMLpb+LpNm//Lx+vn27rNU7ckrTZJ9oEMRiXneWzfTfFLsC9s4YB46QQ2+qxwtc/LPqNVqO/J+QI7tt9X2aHVBjwSrA8ZKrWh7AnkNK5lIT/5/cApr5+4HUjsgxj9HoHU4FdqRQqpjZ45nYPR/O+xDkghkCw2G0MygCRSp0BFtOYVm4b4A7WCGHA==</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_can_Check_Cannot_Be_Cast_To_Int</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Cannot_Be_Cast_To_Int</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "b" "add" "2"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0114808</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[ERROR: Cannot be cast to an integer!]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "b" "add" "2"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>ERROR: Cannot be cast to an integer!
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_can_Check_Number_Out_Of_Range</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Number_Out_Of_Range</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "10000000000" "add" "2"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0107305</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[ERROR : Number out of range!]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "10000000000" "add" "2"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>ERROR : Number out of range!
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_can_Check_Wrong_Operation</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Wrong_Operation</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "frii" "2"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0105078</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[ERROR: Wrong operation!]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "frii" "2"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>ERROR: Wrong operation!
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_can_Check_Add</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Add</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "add" "2"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0145266</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Operand 2 was added!]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "add" "2"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Operand 2 was added!
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_can_Check_Delete</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Delete</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "delete" "1"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0125194</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Operand 1 was deleted!]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "delete" "1"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Operand 1 was deleted!
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_can_Check_Find</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Find</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "find" "1"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0135023</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Operand 1 was founded!]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "find" "1"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Operand 1 was founded!
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_can_Check_Not_Find</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Not_Find</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "find" "2"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0145994</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Operand 2 not founded!]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "find" "2"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Operand 2 not founded!
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_can_Check_Add_More_Initial_Values</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/zarubin_mikhail_binary_tree_can_Check_Add_More_Initial_Values</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "2" "3" "4" "5" "6" "7" "8" "add" "12"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0133369</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Pass Reason">
+					<Value>Required regular expression found. Regex=[Operand 12 was added!]</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\zarubin_mikhail_binary_tree.exe "1" "2" "3" "4" "5" "6" "7" "8" "add" "12"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Operand 12 was added!
+</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<Test Status="passed">
+			<Name>zarubin_mikhail_binary_tree_gtest</Name>
+			<Path>./modules/zarubin_mikhail_binary_tree/test</Path>
+			<FullName>./modules/zarubin_mikhail_binary_tree/test/zarubin_mikhail_binary_tree_gtest</FullName>
+			<FullCommandLine>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_zarubin_mikhail_binary_tree.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.043371</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\test_zarubin_mikhail_binary_tree.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytkzFPwzAQhff8ihthqNUgFgYWFgYESFVZiCLLca7EIjlH9jmQf4+TSEUtaqWE3mTr3vvuSfZl9/vKYROIDH1AegeMnj3snG0gHS+glUeRZKt95fBY20LVUxupM85Sg8TgkVehPRIfQt+VC4Uh+Ww+K2Vq+WBIuV5uHWKSwebtBcbKzwmFViS1Q8UoeTJO9fo0zwhXa2j89bzBO0Ol7FQdUEbV/Pl//YtiGPLo+BeETcv9gjinOReJRfZiyQ5Qi8KxU+Rb63j4AB1qtk6yXRDtDGhRsBJrHEj/fczTnONYQohkWyG4YYftDjiex322gdvA8KV87DW2wxK8IY1g4q5/a8TST+IqWitbl4M7Xd/cQtFHgEh+ALOLgD4=</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>zarubin_mikhail_binary_tree</Label>
+			</Labels>
+		</Test>
+		<EndDateTime>Apr 15 22:25 RTZ 2 (ceia)</EndDateTime>
+		<EndTestTime>1650050727</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

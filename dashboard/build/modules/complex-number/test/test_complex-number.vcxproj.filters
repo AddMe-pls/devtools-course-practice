@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_ALIMOV_MIKHAIL_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Andrich_Maria_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Butescu_Vladimir_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_CHEREMUSHKIN_KIRILL_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_DANSHIN_GLEB_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Diana_Lukashuk_comlex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Elanskiy_Alexandr_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Elena_Balova_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Frolov_Gleb_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_GROSHEV_NIKOLAY_complex_numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Krivosheev_miron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Labinskaya_Marina_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Melnikov_Aleksei_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Mironova_Ekaterina_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Novozhilov_Alexandr_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Oskin_Georgii_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Polina_Petrova_complex_numder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Shatalin_Dmitrii_complex_numder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Ustiuzhanin_Nikita_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_Zaitsev_Alexander_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_bakina_kseniia_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_belyaev_ilya_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_borisov_maxim_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_brazhnik_dmitry_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_chornyi_yura_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_dergalova_arina_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_dydykin_p_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_ermakov_p_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_ershov_alexey_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_galindo_complex_numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_gordeev_v_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_gordey_maria_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_gudkov_a_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_ivanov_arkady_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_kamenev_ilya_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_kazhaeva_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_kim_nikita_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_kirill_lakhov_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_kirill_trevogin_p_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_kitaev_pavel_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_korobeinikov_alexandr_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_krapivenskikh_stepan_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_kruglov_aleksei_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_kuklin_andrey_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_kurguzikov_kirill_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_maksim_orlov_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_miheev_ivan_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_moskvin_stanislav_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_myasnikova_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_olynin_alexandr_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_pichugin_ilya_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_pinezhanin_evgeny_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_podovinnikov_a_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_popp_maksim_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_pyatckin_nikolay_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_remizova_a_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_samoiluk_a_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_shelepin_nikita_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_shurygina_a_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_simple.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_soldatov_gleb_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_troegubova_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_trukhanov_artem_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_vanyushkov_maxim_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_vitulin_ivan_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_yashin_kirill_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_zaitseva_ksenia_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\test_zarubin_mikhail_complex_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Андрей\source\repos\devtools-course-practice\modules\complex-number\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BC6BA2FD-9FE2-3BD9-B99B-E87ECA6FF360}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

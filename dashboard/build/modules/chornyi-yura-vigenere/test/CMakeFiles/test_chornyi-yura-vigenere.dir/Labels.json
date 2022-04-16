@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/source/repos/devtools-course-practice/modules/chornyi-yura-vigenere/test/test_main.cpp",
+			"labels" : 
+			[
+				"chornyi-yura-vigenere",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/source/repos/devtools-course-practice/modules/chornyi-yura-vigenere/test/test_vigenere_cipher.cpp",
+			"labels" : 
+			[
+				"chornyi-yura-vigenere",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"chornyi-yura-vigenere",
+			"Test"
+		],
+		"name" : "test_chornyi-yura-vigenere"
+	}
+}

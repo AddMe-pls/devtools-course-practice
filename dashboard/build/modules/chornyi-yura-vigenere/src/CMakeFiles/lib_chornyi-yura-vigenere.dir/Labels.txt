@@ -1,0 +1,10 @@
+# Target labels
+ chornyi-yura-vigenere
+ Library
+# Source files and their labels
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/chornyi-yura-vigenere/src/vigenere_cipher.cpp
+ chornyi-yura-vigenere
+ Library
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/chornyi-yura-vigenere/include/vigenere_cipher.h
+ chornyi-yura-vigenere
+ Library

@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/source/repos/devtools-course-practice/modules/calculate-price/src/calculate_price.cpp",
+			"labels" : 
+			[
+				"calculate-price",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/source/repos/devtools-course-practice/modules/calculate-price/include/calculate_price.h",
+			"labels" : 
+			[
+				"calculate-price",
+				"Library"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"calculate-price",
+			"Library"
+		],
+		"name" : "lib_calculate-price"
+	}
+}

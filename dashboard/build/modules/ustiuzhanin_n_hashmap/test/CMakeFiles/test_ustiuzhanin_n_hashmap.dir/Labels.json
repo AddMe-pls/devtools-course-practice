@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/source/repos/devtools-course-practice/modules/ustiuzhanin_n_hashmap/test/test_Ustiuzhanin_Nikita_hashmap.cpp",
+			"labels" : 
+			[
+				"ustiuzhanin_n_hashmap",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/source/repos/devtools-course-practice/modules/ustiuzhanin_n_hashmap/test/test_main.cpp",
+			"labels" : 
+			[
+				"ustiuzhanin_n_hashmap",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ustiuzhanin_n_hashmap",
+			"Test"
+		],
+		"name" : "test_ustiuzhanin_n_hashmap"
+	}
+}

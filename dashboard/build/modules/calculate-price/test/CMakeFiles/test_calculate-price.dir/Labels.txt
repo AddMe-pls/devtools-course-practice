@@ -1,0 +1,7 @@
+# Target labels
+ calculate-price
+ Test
+# Source files and their labels
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/calculate-price/test/test_calculate_price.cpp
+ calculate-price
+ Test

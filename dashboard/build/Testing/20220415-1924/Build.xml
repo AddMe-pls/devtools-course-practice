@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Windows-AMD64-Experimental"
+	BuildStamp="20220415-1924-Experimental"
+	Name="DESKTOP-S6OQDQ3"
+	Generator="ctest-3.22.0-rc3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-S6OQDQ3"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19044)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="12"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="15224"
+	TotalPhysicalMemory="8056"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3192"
+	>
+	<Build>
+		<StartDateTime>Apr 15 22:24 RTZ 2 (ceia)</StartDateTime>
+		<StartBuildTime>1650050652</StartBuildTime>
+		<BuildCommand>"C:\Program Files\CMake\bin\cmake.exe" --build . --config "Debug"</BuildCommand>
+		<Warning>
+			<BuildLogLine>7</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9691,34): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext>Microsoft (R) Build Engine версии 16.11.2+f32259642 для .NET Framework
+(C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+  Checking Build System
+  Building Custom Rule /.../devtools-course-practice/3rdparty/gtest/CMakeLists.txt
+  gtest-all.cc
+</PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>8</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9696,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>9</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9701,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>10</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9706,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>11</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9711,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>12</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9716,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>13</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9723,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>14</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9730,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>15</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9737,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>16</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9744,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>17</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9752,18): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>18</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(13779,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(13889): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator2&lt;T1,T2&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>20</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(13894,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14021): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator3&lt;T1,T2,T3&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>22</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14026,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14172): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator4&lt;T1,T2,T3,T4&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>24</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14177,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14339): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator5&lt;T1,T2,T3,T4,T5&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>26</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14345,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14525): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator6&lt;T1,T2,T3,T4,T5,T6&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>28</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14531,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14728): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator7&lt;T1,T2,T3,T4,T5,T6,T7&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>30</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14734,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14950): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator8&lt;T1,T2,T3,T4,T5,T6,T7,T8&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>32</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14956,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15189): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator9&lt;T1,T2,T3,T4,T5,T6,T7,T8,T9&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>34</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15195,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15445): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator10&lt;T1,T2,T3,T4,T5,T6,T7,T8,T9,T10&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>36</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15460,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15473): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder2&lt;Generator1,Generator2&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>38</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15482,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15497): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder3&lt;Generator1,Generator2,Generator3&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>40</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15507,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15524): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder4&lt;Generator1,Generator2,Generator3,Generator4&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>42</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15534,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15553): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder5&lt;Generator1,Generator2,Generator3,Generator4,Generator5&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>44</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15565,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15586): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder6&lt;Generator1,Generator2,Generator3,Generator4,Generator5,Generator6&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>46</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15598,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15622): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder7&lt;Generator1,Generator2,Generator3,Generator4,Generator5,Generator6,Generator7&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>48</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15636,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15662): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder8&lt;Generator1,Generator2,Generator3,Generator4,Generator5,Generator6,Generator7,Generator8&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>50</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15677,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15706): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder9&lt;Generator1,Generator2,Generator3,Generator4,Generator5,Generator6,Generator7,Generator8,Generator9&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>52</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15721,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15753): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder10&lt;Generator1,Generator2,Generator3,Generator4,Generator5,Generator6,Generator7,Generator8,Generator9,Generator10&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>54</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(10021,30): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9692): message : выполняется компиляция ссылки на экземпляр шаблон функции "void testing::internal::PrintTupleTo&lt;std::tuple&lt;&gt;&gt;(const T &amp;,std::ostream *)" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\3rdparty\gtest\gtest.vcxproj]
+          with
+          [
+              T=std::tuple&lt;&gt;
+          ]
+  gtest.vcxproj -&gt; C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\lib\gtest.lib
+  Building Custom Rule /.../devtools-course-practice/modules/chornyi-yura-vigenere/src/CMakeLists.txt
+  vigenere_cipher.cpp
+  lib_chornyi-yura-vigenere.vcxproj -&gt; C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\lib\chornyi-yura-vigenere.lib
+  Building Custom Rule /.../devtools-course-practice/modules/chornyi-yura-vigenere/application/CMakeLists.txt</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>77</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9691,34): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext>  Building Custom Rule /.../devtools-course-practice/modules/complex-number/src/CMakeLists.txt
+  complex_calculator.cpp
+  complex_number.cpp
+  Создание кода...
+  lib_complex-number.vcxproj -&gt; C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\lib\complex-number.lib
+  Building Custom Rule /.../devtools-course-practice/modules/complex-number/application/CMakeLists.txt
+  complex-number.cpp
+  app_complex-number.vcxproj -&gt; C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\bin\complex-number.exe
+  Building Custom Rule /.../devtools-course-practice/modules/zarubin_mikhail_binary_tree/src/CMakeLists.txt
+  binary_tree.cpp
+</PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>78</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9696,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>79</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9701,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>80</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9706,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>81</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9711,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>82</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9716,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>83</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9723,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>84</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9730,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>85</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9737,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>86</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9744,27): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>87</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(9752,18): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext></PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>88</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(13779,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(13889): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator2&lt;T1,T2&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>90</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(13894,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14021): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator3&lt;T1,T2,T3&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>92</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14026,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14172): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator4&lt;T1,T2,T3,T4&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>94</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14177,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14339): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator5&lt;T1,T2,T3,T4,T5&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>96</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14345,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14525): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator6&lt;T1,T2,T3,T4,T5,T6&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>98</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14531,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14728): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator7&lt;T1,T2,T3,T4,T5,T6,T7&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>100</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14734,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14950): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator8&lt;T1,T2,T3,T4,T5,T6,T7,T8&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>102</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(14956,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15189): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator9&lt;T1,T2,T3,T4,T5,T6,T7,T8,T9&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Warning>
+			<BuildLogLine>104</BuildLogLine>
+			<Text>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15195,46): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]</Text>
+			<PreContext></PreContext>
+			<PostContext>C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15445): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductGenerator10&lt;T1,T2,T3,T4,T5,T6,T7,T8,T9,T10&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15460,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15473): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder2&lt;Generator1,Generator2&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15482,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15497): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder3&lt;Generator1,Generator2,Generator3&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15507,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15524): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder4&lt;Generator1,Generator2,Generator3,Generator4&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15534,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15553): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "testing::internal::CartesianProductHolder5&lt;Generator1,Generator2,Generator3,Generator4,Generator5&gt;" [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+C:\Users\Андрей\source\repos\devtools-course-practice\3rdparty\gtest/gtest.h(15565,35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning. [C:\Users\Андрей\source\repos\devtools-course-practice\dashboard\build\modules\zarubin_mikhail_binary_tree\src\lib_zarubin_mikhail_binary_tree.vcxproj]
+The maximum number of reported warnings or errors has been reached!!!
+</PostContext>
+			<RepeatCount>0</RepeatCount>
+		</Warning>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Apr 15 22:25 RTZ 2 (ceia)</EndDateTime>
+		<EndBuildTime>1650050726</EndBuildTime>
+		<ElapsedMinutes>1</ElapsedMinutes>
+	</Build>
+</Site>

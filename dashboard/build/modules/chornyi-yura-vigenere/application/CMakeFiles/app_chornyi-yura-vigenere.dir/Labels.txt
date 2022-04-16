@@ -1,0 +1,7 @@
+# Target labels
+ chornyi-yura-vigenere
+ Application
+# Source files and their labels
+C:/Users/Андрей/source/repos/devtools-course-practice/modules/chornyi-yura-vigenere/application/vigenere_cipher.cpp
+ chornyi-yura-vigenere
+ Application

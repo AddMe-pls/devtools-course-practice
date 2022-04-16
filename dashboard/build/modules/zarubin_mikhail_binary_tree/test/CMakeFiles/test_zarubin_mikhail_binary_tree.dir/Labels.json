@@ -1,0 +1,30 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/source/repos/devtools-course-practice/modules/zarubin_mikhail_binary_tree/test/test_binary_tree.cpp",
+			"labels" : 
+			[
+				"zarubin_mikhail_binary_tree",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/\u0410\u043d\u0434\u0440\u0435\u0439/source/repos/devtools-course-practice/modules/zarubin_mikhail_binary_tree/test/test_main.cpp",
+			"labels" : 
+			[
+				"zarubin_mikhail_binary_tree",
+				"Test"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zarubin_mikhail_binary_tree",
+			"Test"
+		],
+		"name" : "test_zarubin_mikhail_binary_tree"
+	}
+}
