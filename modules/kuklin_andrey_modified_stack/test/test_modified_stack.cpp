@@ -181,7 +181,7 @@ TEST(kuklin_andrey_modified_stack, can_compare_not_eq_modified_stacks) {
 }
 
 TEST(kuklin_andrey_modified_stack, can_equate_modified_stacks) {
-  ModifiedStack mstFirst, mstSecond;
+  ModifiedStack mstF, mstS;
 
-  ASSERT_NO_THROW(mstFirst = mstSecond);
+  ASSERT_NO_THROW(mstF = mstS);
 }
