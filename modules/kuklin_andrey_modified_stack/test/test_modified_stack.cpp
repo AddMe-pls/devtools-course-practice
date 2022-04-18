@@ -31,7 +31,8 @@ TEST(kuklin_andrey_modified_stack,
   ASSERT_ANY_THROW(ModifiedStack(-5));
 }
 
-TEST(kuklin_andrey_modified_stack, cant_create_modified_stack_with_copy_constr) {
+TEST(kuklin_andrey_modified_stack,
+     cant_create_modified_stack_with_copy_constr) {
   ModifiedStack copy;
 
   ASSERT_NO_THROW(ModifiedStack(copy));
