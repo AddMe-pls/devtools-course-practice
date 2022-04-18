@@ -6,7 +6,7 @@
 
 #include "include/modified_stack.h"
 
-ModifiedStack::ModifiedStack(size_t _maxSize) : maxSize(_maxSize), size(0) {
+ModifiedStack::ModifiedStack(size_t _maxSize) : size(0), maxSize(_maxSize) {
   if (_maxSize <= 0) throw _maxSize;
 
   mas = new std::pair<int, int>[maxSize];
@@ -15,7 +15,7 @@ ModifiedStack::ModifiedStack(size_t _maxSize) : maxSize(_maxSize), size(0) {
 ModifiedStack::~ModifiedStack() { delete[] mas; }
 
 ModifiedStack::ModifiedStack(const ModifiedStack& mstack)
-    : maxSize(mstack.maxSize), size(mstack.size) {
+    : size(mstack.size), maxSize(mstack.maxSize) {
   mas = new std::pair<int, int>[maxSize];
 
   for (size_t i = 0; i < size; ++i) mas[i] = mstack.mas[i];
