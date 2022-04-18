@@ -183,7 +183,7 @@ TEST(kuklin_andrey_modified_stack, clearing_modified_stack_set_zero_size) {
   ModifiedStack mst;
   mst.Clear();
 
-  ASSERT_EQ(mst.Size(), 0);
+  ASSERT_EQ(mst.Size(), static_cast<std::size_t>(0));
 }
 
 TEST(kuklin_andrey_modified_stack, can_compare_modified_stacks) {
