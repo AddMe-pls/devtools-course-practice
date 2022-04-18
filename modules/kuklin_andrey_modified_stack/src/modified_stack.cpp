@@ -2,12 +2,13 @@
 
 #include <gtest/gtest.h>
 #include <algorithm>
+#include <utility>
 
 #include "include/modified_stack.h"
 
 ModifiedStack::ModifiedStack(size_t _maxSize) : maxSize(_maxSize), size(0) {
   if (_maxSize <= 0) throw _maxSize;
-  
+
   mas = new std::pair<int, int>[maxSize];
 }
 
@@ -78,7 +79,7 @@ ModifiedStack& ModifiedStack::operator=(const ModifiedStack& mstack) {
       maxSize = mstack.maxSize;
       mas = new std::pair<int, int>[maxSize];
     }
-    
+
     size = mstack.size;
     for (size_t i = 0; i < size; ++i) mas[i] = mstack.mas[i];
   }
