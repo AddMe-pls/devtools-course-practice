@@ -1,9 +1,11 @@
 // Copyright 2022 Kuklin Andrey
+
 #include <gtest/gtest.h>
 
 #include "include/modified_stack.h"
 
-TEST(kuklin_andrey_modified_stack, can_create_modified_stack_with_default_param) {
+TEST(kuklin_andrey_modified_stack,
+     can_create_modified_stack_with_default_param) {
   ASSERT_NO_THROW(ModifiedStack());
 }
 
@@ -14,41 +16,42 @@ TEST(kuklin_andrey_modified_stack,
 
 TEST(kuklin_andrey_modified_stack, can_check_modified_stack_is_empty) {
   ModifiedStack mst;
-  
+
   ASSERT_NO_THROW(mst.Empty());
 }
 
 TEST(kuklin_andrey_modified_stack, new_modified_stack_is_empty) {
   ModifiedStack mst;
-  
+
   ASSERT_TRUE(mst.Empty());
 }
 
-TEST(kuklin_andrey_modified_stack, cant_create_modified_stack_with_not_correct_size) {
+TEST(kuklin_andrey_modified_stack,
+     cant_create_modified_stack_with_not_correct_size) {
   ASSERT_ANY_THROW(ModifiedStack(-5));
 }
 
 TEST(kuklin_andrey_modified_stack, cant_create_modified_stack_with_copy_constr) {
   ModifiedStack copy;
-  
+
   ASSERT_NO_THROW(ModifiedStack(copy));
 }
 
 TEST(kuklin_andrey_modified_stack, can_push_in_modified_stack) {
   ModifiedStack mst;
-  
+
   ASSERT_NO_THROW(mst.Push(1));
 }
 
 TEST(kuklin_andrey_modified_stack, can_check_size_modified_stack) {
   ModifiedStack mst;
-  
+
   ASSERT_NO_THROW(mst.Size());
 }
 
 TEST(kuklin_andrey_modified_stack, push_change_modified_stack_size) {
   ModifiedStack mst;
-  
+
   std::size_t startSize = mst.Size();
   mst.Push(1);
   std::size_t finalSize = mst.Size();
@@ -58,7 +61,7 @@ TEST(kuklin_andrey_modified_stack, push_change_modified_stack_size) {
 
 TEST(kuklin_andrey_modified_stack, size_modified_stack_correct_after_push) {
   ModifiedStack mst;
-  
+
   std::size_t startSize = mst.Size();
   mst.Push(1);
   std::size_t finalSize = mst.Size();
@@ -73,15 +76,16 @@ TEST(kuklin_andrey_modified_stack, can_check_top_elem_of_modified_stack) {
   ASSERT_NO_THROW(mst.Top());
 }
 
-TEST(kuklin_andrey_modified_stack, cant_check_top_elem_of_empty_modified_stack) {
+TEST(kuklin_andrey_modified_stack,
+     cant_check_top_elem_of_empty_modified_stack) {
   ModifiedStack mst;
-  
+
   ASSERT_ANY_THROW(mst.Top());
 }
 
 TEST(kuklin_andrey_modified_stack, top_elem_of_modified_stack_correct) {
   ModifiedStack mst;
-  
+
   mst.Push(1234);
   mst.Push(5678);
 
@@ -96,13 +100,15 @@ TEST(kuklin_andrey_modified_stack, can_delete_top_elem_of_modified_stack) {
   ASSERT_NO_THROW(mst.Pop());
 }
 
-TEST(kuklin_andrey_modified_stack, cant_delete_top_elem_of_empty_modified_stack) {
+TEST(kuklin_andrey_modified_stack,
+     cant_delete_top_elem_of_empty_modified_stack) {
   ModifiedStack mst;
 
   ASSERT_ANY_THROW(mst.Pop());
 }
 
-TEST(kuklin_andrey_modified_stack, top_elem_of_modified_stack_correct_after_pop) {
+TEST(kuklin_andrey_modified_stack,
+     top_elem_of_modified_stack_correct_after_pop) {
   ModifiedStack mst;
 
   mst.Push(12);
@@ -202,7 +208,7 @@ TEST(kuklin_andrey_modified_stack, can_compare_not_eq_modified_stacks) {
   ASSERT_NO_THROW(mstFirst != mstSecond);
 }
 
-TEST(kuklin_andrey_modified_stack, modified_stacks_with_different_sizes_not_equal) {
+TEST(kuklin_andrey_modified_stack, modified_stacks_with_diff_sizes_not_equal) {
   ModifiedStack mstFirst, mstSecond;
 
   mstFirst.Push(5);
@@ -210,7 +216,8 @@ TEST(kuklin_andrey_modified_stack, modified_stacks_with_different_sizes_not_equa
   ASSERT_TRUE(mstFirst != mstSecond);
 }
 
-TEST(kuklin_andrey_modified_stack, modified_stacks_with_different_elements_not_equal) {
+TEST(kuklin_andrey_modified_stack,
+     modified_stacks_with_different_elements_not_equal) {
   ModifiedStack mstFirst, mstSecond;
 
   mstFirst.Push(5);
@@ -239,7 +246,7 @@ TEST(kuklin_andrey_modified_stack, equated_modified_stack_equal_source) {
 
   while (!mstFirst.Empty()) {
     ASSERT_EQ(mstFirst.Top(), mstSecond.Top());
-    
+
     mstFirst.Pop();
     mstSecond.Pop();
   }
