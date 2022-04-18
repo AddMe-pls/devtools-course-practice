@@ -166,8 +166,30 @@ TEST(kuklin_andrey_modified_stack, min_elem_modified_stack_is_correct) {
   ASSERT_EQ(mst.MinElem(), 2);
 }
 
+TEST(kuklin_andrey_modified_stack, can_clear_modified_stack) {
+  ModifiedStack mst;
+
+  ASSERT_NO_THROW(mst.Clear());
+}
+
+TEST(kuklin_andrey_modified_stack, clearing_modified_stack_set_zero_size) {
+  ModifiedStack mst;
+  mst.Clear();
+
+  ASSERT_EQ(mst.Size(), 0);
+}
+
 TEST(kuklin_andrey_modified_stack, can_compare_modified_stacks) {
   ModifiedStack mstFirst, mstSecond;
+
+  ASSERT_NO_THROW(mstFirst == mstSecond);
+}
+
+TEST(kuklin_andrey_modified_stack, equal_modified_stacks_is_equal) {
+  ModifiedStack mstFirst, mstSecond;
+
+  mstFirst.Push(5);
+  mstSecond.Push(5);
 
   ASSERT_NO_THROW(mstFirst == mstSecond);
 }
@@ -180,8 +202,45 @@ TEST(kuklin_andrey_modified_stack, can_compare_not_eq_modified_stacks) {
   ASSERT_NO_THROW(mstFirst != mstSecond);
 }
 
+TEST(kuklin_andrey_modified_stack, modified_stacks_with_different_sizes_not_equal) {
+  ModifiedStack mstFirst, mstSecond;
+
+  mstFirst.Push(5);
+
+  ASSERT_TRUE(mstFirst != mstSecond);
+}
+
+TEST(kuklin_andrey_modified_stack, modified_stacks_with_different_elements_not_equal) {
+  ModifiedStack mstFirst, mstSecond;
+
+  mstFirst.Push(5);
+  mstFirst.Push(6);
+  mstSecond.Push(5);
+  mstSecond.Push(4);
+
+  ASSERT_TRUE(mstFirst != mstSecond);
+}
+
 TEST(kuklin_andrey_modified_stack, can_equate_modified_stacks) {
   ModifiedStack mstFirst, mstSecond;
 
   ASSERT_NO_THROW(mstFirst = mstSecond);
+}
+
+TEST(kuklin_andrey_modified_stack, equated_modified_stack_equal_source) {
+  ModifiedStack mstFirst, mstSecond;
+
+  mstFirst.Push(3);
+  mstFirst.Push(6);
+  mstFirst.Push(7);
+  mstFirst.Push(9);
+
+  mstSecond = mstFirst;
+
+  while (!mstFirst.Empty()) {
+    ASSERT_EQ(mstFirst.Top(), mstSecond.Top());
+    
+    mstFirst.Pop();
+    mstSecond.Pop();
+  }
 }
