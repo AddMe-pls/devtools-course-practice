@@ -198,7 +198,7 @@ TEST(kuklin_andrey_modified_stack, equal_modified_stacks_is_equal) {
   mstFirst.Push(5);
   mstSecond.Push(5);
 
-  ASSERT_NO_THROW(mstFirst == mstSecond);
+  ASSERT_TRUE(mstFirst == mstSecond);
 }
 
 TEST(kuklin_andrey_modified_stack, can_compare_not_eq_modified_stacks) {
