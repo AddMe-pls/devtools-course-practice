@@ -32,10 +32,29 @@ TEST(kuklin_andrey_modified_stack,
 }
 
 TEST(kuklin_andrey_modified_stack,
-     cant_create_modified_stack_with_copy_constr) {
+     can_create_modified_stack_with_copy_constr) {
   ModifiedStack copy;
 
   ASSERT_NO_THROW(ModifiedStack(copy));
+}
+
+TEST(kuklin_andrey_modified_stack,
+     created_modified_stack_with_copy_constr_equal_source_stack) {
+  ModifiedStack source;
+
+  source.Push(3);
+  source.Push(6);
+  source.Push(7);
+  source.Push(9);
+
+  ModifiedStack copy(source);
+
+  while (!source.Empty()) {
+    ASSERT_EQ(copy.Top(), source.Top());
+
+    copy.Pop();
+    source.Pop();
+  }
 }
 
 TEST(kuklin_andrey_modified_stack, can_push_in_modified_stack) {
@@ -233,6 +252,13 @@ TEST(kuklin_andrey_modified_stack, can_equate_modified_stacks) {
   ModifiedStack mstFirst, mstSecond;
 
   ASSERT_NO_THROW(mstFirst = mstSecond);
+}
+
+TEST(kuklin_andrey_modified_stack,
+     can_assign_modified_stack_with_different_maxsize) {
+  ModifiedStack mstFirst(3), mstSecond(5);
+
+  ASSERT_NO_THROW(mstSecond = mstFirst);
 }
 
 TEST(kuklin_andrey_modified_stack, equated_modified_stack_equal_source) {
