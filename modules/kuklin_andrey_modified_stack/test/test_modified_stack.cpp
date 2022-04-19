@@ -40,20 +40,20 @@ TEST(kuklin_andrey_modified_stack,
 
 TEST(kuklin_andrey_modified_stack,
      created_modified_stack_with_copy_constr_equal_source_stack) {
-  ModifiedStack source;
+  ModifiedStack sourceSt;
 
-  source.Push(3);
-  source.Push(6);
-  source.Push(7);
-  source.Push(9);
+  sourceSt.Push(3);
+  sourceSt.Push(6);
+  sourceSt.Push(7);
+  sourceSt.Push(9);
 
-  ModifiedStack copy(source);
+  ModifiedStack copySt(sourceSt);
 
-  while (!source.Empty()) {
-    ASSERT_EQ(copy.Top(), source.Top());
+  while (!sourceSt.Empty()) {
+    ASSERT_EQ(copySt.Top(), sourceSt.Top());
 
-    copy.Pop();
-    source.Pop();
+    copySt.Pop();
+    sourceSt.Pop();
   }
 }
 
