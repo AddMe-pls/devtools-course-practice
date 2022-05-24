@@ -49,7 +49,7 @@ bool validateTypeOfArguments(int argc, const char** argv) {
       }
     }
   }
-  
+
   return result;
 }
 
