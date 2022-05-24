@@ -13,7 +13,7 @@ class PriorityQueueApplication {
 
   std::string operator()(int argc, const char** argv);
 
-  private:
+ private:
   std::string app_message;
 
   void help(const char* appname, const char* message = "");
